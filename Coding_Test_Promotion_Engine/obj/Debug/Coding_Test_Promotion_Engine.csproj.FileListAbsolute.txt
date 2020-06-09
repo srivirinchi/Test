@@ -1,0 +1,6 @@
+c:\users\srivirinchi\documents\visual studio 2013\Projects\Coding_Test_Promotion_Engine\bin\Debug\Coding_Test_Promotion_Engine.exe.config
+c:\users\srivirinchi\documents\visual studio 2013\Projects\Coding_Test_Promotion_Engine\bin\Debug\Coding_Test_Promotion_Engine.exe
+c:\users\srivirinchi\documents\visual studio 2013\Projects\Coding_Test_Promotion_Engine\bin\Debug\Coding_Test_Promotion_Engine.pdb
+c:\users\srivirinchi\documents\visual studio 2013\Projects\Coding_Test_Promotion_Engine\obj\Debug\Coding_Test_Promotion_Engine.csprojResolveAssemblyReference.cache
+c:\users\srivirinchi\documents\visual studio 2013\Projects\Coding_Test_Promotion_Engine\obj\Debug\Coding_Test_Promotion_Engine.exe
+c:\users\srivirinchi\documents\visual studio 2013\Projects\Coding_Test_Promotion_Engine\obj\Debug\Coding_Test_Promotion_Engine.pdb
